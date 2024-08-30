@@ -49,8 +49,3 @@ To view the website locally or contribute to the repository, follow these steps:
    - Commit your changes (`git commit -am 'Add new section'`).
    - Push to the branch (`git push origin feature/add-new-section`).
    - Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-"# Shivam-s_Portfolio" 
