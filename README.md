@@ -1,51 +1,50 @@
-# Live : https://shivamjaviya.netlify.app/
-# Personal Profile Website
+<<<<<<< HEAD
 
-Welcome to the repository for my personal profile website!
+=======
+# vCard - Personal portfolio
 
-## Overview
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-This repository contains the source code and assets for my personal profile website. The website is designed to showcase my skills, projects, and experience in a visually appealing and user-friendly manner.
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Technologies Used
+## Demo
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Frameworks/Libraries**: Bootstrap, jQuery
-- **Deployment**: GitHub Pages
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Features
+## Prerequisites
 
-- **About Me**: Introduction and background information.
-- **Portfolio**: Showcase of projects with descriptions and links.
-- **Skills**: List of skills with proficiency levels.
-- **Contact**: Contact form and social media links.
+Before you begin, ensure you have met the following requirements:
 
-## Setup and Usage
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-To view the website locally or contribute to the repository, follow these steps:
+## Installing vCard
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/personal-profile-website.git
-   ```
+To install **vCard**, follow these steps:
 
-2. **Navigate to the project directory**:
-   ```bash
-   cd personal-profile-website
-   ```
+Linux and macOS:
 
-3. **Open `index.html` in a web browser**:
-   ```bash
-   open index.html
-   ```
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-4. **Explore and modify**:
-   - Modify HTML, CSS, and JavaScript files as needed.
-   - Test changes locally before committing.
+Windows:
 
-5. **Contributing**:
-   - Fork the repository.
-   - Create a new branch (`git checkout -b feature/add-new-section`).
-   - Commit your changes (`git commit -am 'Add new section'`).
-   - Push to the branch (`git push origin feature/add-new-section`).
-   - Create a new Pull Request.
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+## License
+
+MIT
+"# Shivam-s-Portfolio-website" 
+"# Shivam-s-Portfolio-website" 
+>>>>>>> cd2e5cc (last resume update)
