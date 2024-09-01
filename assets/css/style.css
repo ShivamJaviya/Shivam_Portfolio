@@ -501,7 +501,7 @@ main {
   color: var(--light-gray);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
-  font-family: "Playwrite PE", cursive;
+  font-family: 'General Sans', sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
